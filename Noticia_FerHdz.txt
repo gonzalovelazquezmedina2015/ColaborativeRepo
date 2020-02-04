@@ -1,0 +1,33 @@
+Farewell, benevolent dictator: Python creator Guido van Rossum retires
+
+
+By Ryan Daws
+31 October 2019, 15:03 p.m.
+comment
+Categories
+AI, Industry, Languages, Python
+
+
+Guido van Rossum, the "benevolent dictator for life" creator of Python, is stepping down from his current role at Dropbox and hanging up his keyboard.
+
+Dropbox hired van Rossum six and a half years ago. The hire made perfect sense, given the company uses about four million lines of Python code. When van Rossum started in 2011, Dropbox’s server and desktop client were written "almost exclusively in Python".
+
+Over the years, other languages have seeped into Dropbox’s projects including Go, Rust, and TypeScript. Python, however, continues to be used heavily both at Dropbox and around the world despite now being almost 30 years old.
+
+On some indexes, Python is the world’s most popular language. For example, in the IEEE Spectrum's sixth annual ranking, Python takes the number one spot with a score of 100 compared to the runner-up Java with 96.3. On the TIOBE Index, Python takes the number three spot behind Java and C but is moving up the rankings the fastest in the top 20.
+
+Python is loved for being easy-to-understand, having a strong community, and speed. The language is currently the most taught in introductory computer science courses.
+
+Some of Python’s recent interest is driven by the language’s use for AI and machine learning. Python has a number of popular libraries for such applications including Google’s TensorFlow, Theano, and Microsoft’s Cognitive Toolkit (CNTK).
+
+Dropbox says van Rossum had a huge impact on the engineering culture at the company.
+
+"There was a small number of really smart, really young coders who produced a lot of very clever code that only they could understand," said van Rossum. "That is probably the right attitude to have when you're a really small startup."
+
+As the company grew, new engineers were unable to understand the clever code written by previous developers. Van Rossum called it a “cowboy coding culture” and worked to change it; educating coders at Dropbox about the importance of maintainable code.
+
+"If I encountered clever code that was particularly cryptic, and I had to do some maintenance on it, I would probably rewrite it,” he said. “So I led by example, and also by talking to other people."
+
+Van Rossum’s work has already impacted millions in some regard; not just at Dropbox, but around the world. Long past his retirement, it will continue to do so, and likely in ways difficult for us to imagine today given Python’s importance in AI.
+
+"It's been an amazing ride to see this little hack of mine affect so many people in their lives," said van Rossum.
