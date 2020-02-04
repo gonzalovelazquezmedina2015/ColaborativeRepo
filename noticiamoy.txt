@@ -14,3 +14,6 @@ El motivo es  porque está siendo impulsado por un fuerte crecimiento en la inge
 El curso de Microsoft sobre Python es totalmente gratuito, pero hay que tener cuidado.Y es que, no se trata de un curso que apunte a quienes no han tocado código en su vida, ya que asume que el usuario ha jugueteado con JavaScript. Está enfocado en Python 3x, pero también es válido para usuarios que quieran aprender fundamentos de Python 2x.
 
 Lo interesante es que es un curso de lo más visual, ya que se trata de 44 vídeos publicados en YouTube que nos permiten ver lo que los diferentes docentes están realizando de una manera muy didáctica y, además, hay un montón de librerías y otros recursos en GitHub a los que podéis acceder a través de este enlace.
+
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
