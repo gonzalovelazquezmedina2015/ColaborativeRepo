@@ -1,0 +1,19 @@
+Microsoft quiere que aprendas a programar en Python gratis
+
+
+
+    Aprender a programar es una de las necesidades de muchos que quieren dedicarse profesionalmente a eso de escribir código para dar vida tanto a los programas que utilizamos día a día como a cualquier otro tipo de soluciones. Ya os hemos contado que hay muchos lenguajes de programación diferentes, y uno de ellos es Python, el que Microsoft quiere que aprendamos totalmente gratis.
+
+Cuando nos planteamos aprender a programar, podemos ir a por uno de los lenguajes de programación con más futuro, entre los que está Python, pero también a otros que no tienen tanto presente, pero que son ‘’divertidos’’ debido a lo complicados que son.
+
+Python, como decimos, es de los lenguajes de programación más atractivos. Se ha situado como uno de los lenguajes más populares entre todos los desarrolladores, actualmente situado en tercer lugar después de Java y C, algo que podría cambiar a muy corto plazo.
+
+
+El motivo es  porque está siendo impulsado por un fuerte crecimiento en la ingeniería de software, unido a la capacidad del uso de este lenguaje en comparación con los anteriormente mencionados
+
+El curso de Microsoft sobre Python es totalmente gratuito, pero hay que tener cuidado.Y es que, no se trata de un curso que apunte a quienes no han tocado código en su vida, ya que asume que el usuario ha jugueteado con JavaScript. Está enfocado en Python 3x, pero también es válido para usuarios que quieran aprender fundamentos de Python 2x.
+
+Lo interesante es que es un curso de lo más visual, ya que se trata de 44 vídeos publicados en YouTube que nos permiten ver lo que los diferentes docentes están realizando de una manera muy didáctica y, además, hay un montón de librerías y otros recursos en GitHub a los que podéis acceder a través de este enlace.
+
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
